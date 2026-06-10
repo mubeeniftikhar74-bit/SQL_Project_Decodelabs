@@ -99,8 +99,8 @@ Key Insights
 
 Project Files
 
-* dataset.csv
-* sql_queries.sql
+* Cleaned Data.csv
+* sql_project.db
 * README.md
 * Screenshots of query outputs
 
